@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: MainTextTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: MainTextTable
+  m_TableCollectionNameGuidString: aa384c0dbd10ebf469eee8be07ae62f8
+  m_Entries:
+  - m_Id: 781581148160
+    m_Key: MainMenu/Canvas/OptionsMenu/BGPanel/Mask/ReturnButton/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 808705712128
+    m_Key: MainMenu/Canvas/OptionsMenu/BGPanel/Mask/ConfirmButton/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 889269903360
+    m_Key: MainMenu/Canvas/OptionsMenu/BGPanel/Mask/MasterAudioControls/MasterAudioText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 914368618496
+    m_Key: MainMenu/Canvas/OptionsMenu/BGPanel/Mask/SFXAudioControls/SFXAudioText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 960149446656
+    m_Key: MainMenu/Canvas/OptionsMenu/BGPanel/Mask/MusicAudioControls/MusicAudioText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1072623902720
+    m_Key: MainMenu/GameObject/grass_play/Canvas/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1113962962944
+    m_Key: MainMenu/GameObject/grass_quit/Canvas/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1130970865664
+    m_Key: MainMenu/GameObject/grass_options/Canvas/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2039738130432
+    m_Key: MainMenu/Canvas/OptionsMenu/BGPanel/Mask/LanguageControls/LanguageText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13409430921216
+    m_Key: ARPlayground/Canvas/ActionsPanel/SpritableButton/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15107650084864
+    m_Key: ARPlayground/Canvas/ActionsPanel/ActionsView/Viewport/Content/TokenAttackAction/AttackText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 237405904494592
+    m_Key: ARPlayground/Canvas/GameEndPanel/ReturnButton/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 238400092954624
+    m_Key: ARPlayground/Canvas/GameEndPanel/GameEndText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 393402476519424
+    m_Key: OptionsMenu/Canvas (Environment)/OptionsMenu/TutorialButton/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 421921575264256
+    m_Key: OptionsMenu/Canvas (Environment)/OptionsMenu/TutorialPanel/TutorialContent/Viewport/Content/HowToPlay/HTP_Intro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1800135300210688
+    m_Key: ARPlayground/Canvas/PassTurnBView/PlayerBTurn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1800321338564608
+    m_Key: ARPlayground/Canvas/PassTurnAView/PlayerATurn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12890540187967488
+    m_Key: OptionsMenu/Canvas (Environment)/OptionsMenu/BGPanel/SpritableButton/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7576036974169686066
+  references:
+    version: 2
+    RefIds:
+    - rid: 7576036974169686066
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1721765576377

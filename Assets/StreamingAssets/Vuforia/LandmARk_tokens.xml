@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="sie_b3_landmark" size="0.025000 0.025000" />
+    <ImageTarget name="sie_b2_landmark" size="0.025000 0.025000" />
+    <ImageTarget name="sie_b1_landmark" size="0.025000 0.025000" />
+    <ImageTarget name="sie_b0_landmark" size="0.025000 0.025000" />
+    <ImageTarget name="sie_a3_landmark" size="0.025000 0.025000" />
+    <ImageTarget name="sie_a2_landmark" size="0.025000 0.025000" />
+    <ImageTarget name="sie_a1_landmark" size="0.025000 0.025000" />
+    <ImageTarget name="sie_a0_landmark" size="0.025000 0.025000" />
+    <ImageTarget name="res_b2_landmark" size="0.025000 0.025000" />
+    <ImageTarget name="res_b1_landmark" size="0.025000 0.025000" />
+    <ImageTarget name="res_b0_landmark" size="0.025000 0.025000" />
+    <ImageTarget name="res_a2_landmark" size="0.025000 0.025000" />
+    <ImageTarget name="res_a1_landmark" size="0.025000 0.025000" />
+    <ImageTarget name="res_a0_landmark" size="0.025000 0.025000" />
+    <ImageTarget name="mil_b5_landmark" size="0.025000 0.025000" />
+    <ImageTarget name="mil_b4_landmark" size="0.025000 0.025000" />
+    <ImageTarget name="mil_b3_landmark" size="0.025000 0.025000" />
+    <ImageTarget name="mil_b2_landmark" size="0.025000 0.025000" />
+    <ImageTarget name="mil_b1_landmark" size="0.025000 0.025000" />
+    <ImageTarget name="mil_b0_landmark" size="0.025000 0.025000" />
+    <ImageTarget name="mil_a5_landmark" size="0.025000 0.025000" />
+    <ImageTarget name="mil_a4_landmark" size="0.025000 0.025000" />
+    <ImageTarget name="mil_a3_landmark" size="0.025000 0.025000" />
+    <ImageTarget name="mil_a2_landmark" size="0.025000 0.025000" />
+    <ImageTarget name="mil_a1_landmark" size="0.025000 0.025000" />
+    <ImageTarget name="mil_a0_landmark" size="0.025000 0.025000" />
+    <ImageTarget name="kni_b4_landmark" size="0.025000 0.025000" />
+    <ImageTarget name="kni_b3_landmark" size="0.025000 0.025000" />
+    <ImageTarget name="kni_b2_landmark" size="0.025000 0.025000" />
+    <ImageTarget name="kni_b1_landmark" size="0.025000 0.025000" />
+    <ImageTarget name="kni_b0_landmark" size="0.025000 0.025000" />
+    <ImageTarget name="kni_a4_landmark" size="0.025000 0.025000" />
+    <ImageTarget name="kni_a3_landmark" size="0.025000 0.025000" />
+    <ImageTarget name="kni_a2_landmark" size="0.025000 0.025000" />
+    <ImageTarget name="kni_a1_landmark" size="0.025000 0.025000" />
+    <ImageTarget name="kni_a0_landmark" size="0.025000 0.025000" />
+    <ImageTarget name="ch_b_landmark" size="0.025000 0.025000" />
+    <ImageTarget name="ch_a_landmark" size="0.025000 0.025000" />
+    <ImageTarget name="brk_b1_landmark" size="0.025000 0.025000" />
+    <ImageTarget name="brk_b0_landmark" size="0.025000 0.025000" />
+    <ImageTarget name="brk_a1_landmark" size="0.025000 0.025000" />
+    <ImageTarget name="brk_a0_landmark" size="0.025000 0.025000" />
+    <ImageTarget name="board3_landmark" size="0.040000 0.040000" />
+    <ImageTarget name="board2_landmark" size="0.040000 0.040000" />
+    <ImageTarget name="board1_landmark" size="0.040000 0.040000" />
+    <ImageTarget name="board0_landmark" size="0.040000 0.040000" />
+    <ImageTarget name="board_landmark" size="0.050000 0.050000" />
+  </Tracking>
+</QCARConfig>

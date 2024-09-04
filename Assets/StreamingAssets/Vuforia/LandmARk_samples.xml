@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="quarterbr" size="0.015000 0.015012" />
+    <ImageTarget name="quartertr" size="0.015000 0.015000" />
+    <ImageTarget name="quarterbl" size="0.015000 0.015000" />
+    <ImageTarget name="quartertl" size="0.015000 0.015000" />
+    <ImageTarget name="apriltag2" size="0.050000 0.050000" />
+    <ImageTarget name="apriltag" size="0.050000 0.050000" />
+    <ImageTarget name="grid3" size="0.034000 0.034000" />
+    <ImageTarget name="grid2" size="0.034000 0.034000" />
+    <ImageTarget name="grid1" size="0.034000 0.034000" />
+    <ImageTarget name="grid0" size="0.034000 0.034000" />
+    <ImageTarget name="minitris20" size="0.020000 0.020000" />
+    <ImageTarget name="artoolkit20" size="0.020000 0.020000" />
+    <ImageTarget name="artoolkit25" size="0.025000 0.025000" />
+    <ImageTarget name="tris25" size="0.025000 0.025000" />
+    <ImageTarget name="tris20" size="0.020000 0.020000" />
+  </Tracking>
+</QCARConfig>

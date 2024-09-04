@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5dcba21d4d138a9438db108e61774a35, type: 3}
+  m_Name: Blue_Resource
+  m_EditorClassIdentifier: 
+  maxHealthPoints: 15
+  attackPoints: 0
+  turnCost: 2
+  resourceWoodCost: 3
+  resourceStoneCost: 1
+  name:
+    m_TableReference:
+      m_TableCollectionName: GUID:e06c3bb9ea2b21f4281eb7c10f6428dc
+    m_TableEntryReference:
+      m_KeyId: 32663003136
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  sprite: {fileID: 21300000, guid: 15671e564ad65ef4eaba837d2b3a8d02, type: 3}
+  woodPerTurn: 2
+  stonePerTurn: 2
+  generateWood: 1
+  generateStone: 0
+  type: 5
+  attackAdvanges: 
+  range: []
+  references:
+    version: 2
+    RefIds: []
